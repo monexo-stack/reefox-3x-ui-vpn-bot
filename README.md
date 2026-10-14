@@ -66,8 +66,8 @@ Reefox Panel — готовая платформа для продажи VPN-п�
 - Переезд на новый сервер встроен.
 
 <p align="center">
-  <img src="assets/miniapp-home.png" alt="Кабинет клиента VPN в Telegram Mini App" width="260">
-  <img src="assets/miniapp-checkout.png" alt="Покупка VPN-подписки в Mini App: пакет, СБП, промокод" width="260">
+  <img src="assets/miniapp-demo.gif" alt="Покупка VPN-подписки в Telegram Mini App: продление, способы оплаты СБП, карта, CryptoBot, Telegram Stars, скидка за год" width="300"><br>
+  <sub>Так клиент продлевает подписку в Mini App: пакет, месяц или год, СБП, карта, CryptoBot или Stars.</sub>
 </p>
 
 ## Что понадобится

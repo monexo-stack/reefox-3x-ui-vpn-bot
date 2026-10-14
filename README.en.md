@@ -58,8 +58,8 @@ This repository is the project's storefront. The source code is closed; the buil
 - Built-in move to a new server.
 
 <p align="center">
-  <img src="assets/miniapp-home.png" alt="Customer cabinet in the Mini App" width="260">
-  <img src="assets/miniapp-checkout.png" alt="Package choice and payment" width="260">
+  <img src="assets/miniapp-demo.gif" alt="Buying a VPN subscription in the Telegram Mini App: renewal, SBP, card, CryptoBot, Telegram Stars, yearly discount" width="300"><br>
+  <sub>A customer renewing in the Mini App: package, month or year, SBP, card, CryptoBot or Stars.</sub>
 </p>
 
 ## Requirements
