@@ -1,0 +1,71 @@
+Reefox Panel — лицензия на закрытое программное обеспечение
+Reefox Panel — Proprietary Software License
+
+Copyright (c) 2026 Reefox. Все права защищены. All rights reserved.
+
+RU
+
+1. Reefox Panel (далее «Программа») и её исходный код являются закрытыми.
+   Программа предоставляется по лицензии, а не продаётся.
+
+2. Пользоваться Программой можно только с действующим ключом лицензии,
+   выданным Reefox, на условиях этой лицензии и в рамках срока и
+   ограничений, указанных в ключе.
+
+3. Запрещается полностью или частично: копировать Программу (кроме
+   резервной копии), распространять, передавать, сдавать в аренду или
+   перепродавать её третьим лицам; изменять, декомпилировать или
+   дизассемблировать её; обходить, отключать или изменять проверку
+   лицензии, привязку к серверу и встроенные ограничения.
+
+4. Ключ лицензии привязан к одной установке. Передача ключа, копирование
+   активированной базы или запуск большего числа установок, чем разрешено,
+   нарушают эту лицензию и могут привести к остановке Программы.
+
+5. Все права на Программу, включая права на интеллектуальную
+   собственность, принадлежат Reefox.
+
+6. Программа предоставляется «как есть», без каких-либо гарантий.
+   Reefox не несёт ответственности за убытки, связанные с использованием
+   Программы.
+
+7. Лицензия прекращается автоматически при её нарушении. После этого
+   Программу нужно перестать использовать и удалить все её копии.
+
+Файлы этого репозитория (описание, документация, изображения) можно
+просматривать и ссылаться на них. Их копирование для распространения
+Программы запрещено.
+
+По вопросам лицензии: https://t.me/by_monexo
+
+EN
+
+1. Reefox Panel (the "Software") and its source code are proprietary. The
+   Software is licensed, not sold.
+
+2. The Software may be used only with a valid license key issued by Reefox,
+   under this license and within the term and limits encoded in the key.
+
+3. You may not, in whole or in part: copy the Software (except for a
+   backup), distribute, transfer, rent or resell it to third parties;
+   modify, decompile or disassemble it; circumvent, disable or alter the
+   license check, the server binding or the built-in limits.
+
+4. A license key is bound to one installation. Sharing a key, copying an
+   activated database or running more installations than licensed breaches
+   this license and may stop the Software.
+
+5. Reefox retains all rights in the Software, including intellectual
+   property rights.
+
+6. The Software is provided "as is", without warranty of any kind. Reefox is
+   not liable for any damages arising from its use.
+
+7. This license terminates automatically on breach. You must then stop using
+   the Software and delete all copies.
+
+The files in this repository (description, documentation, images) may be
+viewed and linked to. Copying them to distribute the Software is not
+permitted.
+
+License questions: https://t.me/by_monexo
