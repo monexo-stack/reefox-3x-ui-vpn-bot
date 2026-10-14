@@ -1,20 +1,36 @@
 <div align="center">
   <h1>Reefox Panel</h1>
-  <p><strong>Платформа для продажи VPN-подписок поверх 3x-ui.</strong><br>
-  Telegram-бот, Mini App, сайт с кабинетом, оплаты и админка. Ставится на ваш сервер одной командой.</p>
+  <p><strong>Telegram-бот для продажи VPN на 3x-ui</strong><br>
+  Mini App, сайт с кабинетом, оплата по СБП и картам, админка. Ставится на ваш сервер одной командой.</p>
+  <p>
+    <img src="https://img.shields.io/badge/версия-1.1.3-f97316" alt="Версия 1.1.3">
+    <img src="https://img.shields.io/badge/3x--ui-3.x-111827" alt="3x-ui 3.x">
+    <img src="https://img.shields.io/badge/Xray-VLESS%20·%20Reality%20·%20XHTTP%20·%20Hysteria2-111827" alt="Xray: VLESS, Reality, XHTTP, Hysteria2">
+    <img src="https://img.shields.io/badge/Telegram-Mini%20App-26a5e4" alt="Telegram Mini App">
+  </p>
   <p>
     <a href="https://reefox.ru">Сайт</a> ·
     <a href="https://docs.reefox.ru">Документация</a> ·
     <a href="https://t.me/reefox_store_bot">Пробный ключ на 7 дней</a> ·
     <a href="README.en.md">English</a>
   </p>
+  <p><sub>Telegram VPN shop bot for 3x-ui / Xray: Mini App, website, payments and admin panel. Self-hosted, one-command install. <a href="README.en.md">Read in English</a>.</sub></p>
 </div>
 
-<p align="center"><img src="assets/dashboard.png" alt="Дашборд админки: выручка, подписки, продления" width="860"></p>
+<p align="center"><img src="assets/dashboard.png" alt="Админка Reefox Panel: выручка VPN-сервиса, подписки, продления" width="860"></p>
 
-Reefox Panel работает на вашем сервере и под вашим брендом. Клиенты покупают подписку в боте, в Mini App или на сайте и получают одну ссылку со всеми вашими локациями. База клиентов и деньги от оплат остаются у вас.
+Reefox Panel — готовая платформа для продажи VPN-подписок через Telegram. Она подключается к вашим серверам 3x-ui (Xray: VLESS Reality, XHTTP, Hysteria2), сама выдаёт ключи после оплаты, продлевает подписки и напоминает клиентам об оплате. Ключи вручную выдавать больше не нужно, переводы сверять тоже.
+
+Платформа работает на вашем сервере и под вашим брендом. Клиенты покупают подписку в боте, в Mini App или на сайте и получают одну ссылку со всеми вашими локациями. База клиентов и деньги от оплат остаются у вас.
 
 Это витрина проекта. Исходный код закрыт, сборка выдаётся по ключу лицензии.
+
+## Для кого
+
+- Вы продаёте VPN и выдаёте ключи из 3x-ui вручную.
+- Принимаете оплату переводами и сами сверяете, кто заплатил.
+- Хотите свой VPN-сервис под своим брендом, с ботом, сайтом и оплатой по СБП.
+- Делаете VPN для друзей или команды и хотите, чтобы продление работало само.
 
 ## Что внутри
 
@@ -50,8 +66,8 @@ Reefox Panel работает на вашем сервере и под ваши�
 - Переезд на новый сервер встроен.
 
 <p align="center">
-  <img src="assets/miniapp-home.png" alt="Кабинет клиента в Mini App" width="260">
-  <img src="assets/miniapp-checkout.png" alt="Выбор пакета и оплата" width="260">
+  <img src="assets/miniapp-home.png" alt="Кабинет клиента VPN в Telegram Mini App" width="260">
+  <img src="assets/miniapp-checkout.png" alt="Покупка VPN-подписки в Mini App: пакет, СБП, промокод" width="260">
 </p>
 
 ## Что понадобится
@@ -74,8 +90,8 @@ curl -fsSL https://store.reefox.ru/install.sh -o install.sh && sudo bash install
 В конце бот присылает ссылку на админку. Подробная инструкция по каждому шагу: [docs.reefox.ru](https://docs.reefox.ru).
 
 <p align="center">
-  <img src="assets/location.png" alt="Подключение сервера 3x-ui" width="420">
-  <img src="assets/payments.png" alt="Способы оплаты и резервные провайдеры" width="420">
+  <img src="assets/location.png" alt="Подключение сервера 3x-ui к боту по SSH" width="420">
+  <img src="assets/payments.png" alt="Оплата VPN: СБП, карты, CryptoBot, Telegram Stars, ЮKassa, Platega" width="420">
 </p>
 
 ## Частые вопросы

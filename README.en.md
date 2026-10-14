@@ -1,7 +1,13 @@
 <div align="center">
   <h1>Reefox Panel</h1>
-  <p><strong>A platform for selling VPN subscriptions on top of 3x-ui.</strong><br>
-  Telegram bot, Mini App, a website with a customer cabinet, payments and an admin panel. One command installs it on your server.</p>
+  <p><strong>Telegram VPN shop bot for 3x-ui</strong><br>
+  Mini App, a website with a customer cabinet, payments and an admin panel. One command installs it on your server.</p>
+  <p>
+    <img src="https://img.shields.io/badge/version-1.1.3-f97316" alt="Version 1.1.3">
+    <img src="https://img.shields.io/badge/3x--ui-3.x-111827" alt="3x-ui 3.x">
+    <img src="https://img.shields.io/badge/Xray-VLESS%20·%20Reality%20·%20XHTTP%20·%20Hysteria2-111827" alt="Xray: VLESS, Reality, XHTTP, Hysteria2">
+    <img src="https://img.shields.io/badge/Telegram-Mini%20App-26a5e4" alt="Telegram Mini App">
+  </p>
   <p>
     <a href="https://reefox.ru">Website</a> ·
     <a href="https://docs.reefox.ru">Docs (Russian)</a> ·
@@ -12,7 +18,9 @@
 
 <p align="center"><img src="assets/dashboard.png" alt="Admin dashboard: revenue, subscriptions, renewals" width="860"></p>
 
-Reefox Panel runs on your server under your brand. Customers buy a subscription in the bot, the Mini App or on the website and get one link with all your locations. Your customer base and your payments stay with you.
+Reefox Panel is a ready-made platform for selling VPN subscriptions through Telegram. It connects to your 3x-ui servers (Xray: VLESS Reality, XHTTP, Hysteria2), issues keys after payment, renews subscriptions and reminds customers to pay. No more handing out keys by hand or matching bank transfers.
+
+It runs on your server under your brand. Customers buy a subscription in the bot, the Mini App or on the website and get one link with all your locations. Your customer base and your payments stay with you.
 
 This repository is the project's storefront. The source code is closed; the build is delivered for a valid license key. The interface is in Russian and the payment providers are built for the Russian market.
 
